@@ -556,7 +556,7 @@ Overall, the project strengthened practical skills in data cleaning, exploratory
 |---|---|
 | `Python_DA_Assignment_2_Data_Visualization_Solution.ipynb` | Completed Jupyter Notebook containing Python code, outputs, visualizations, findings, and insights |
 | `README.md` | Project overview, original assignment questions, Python code, outputs, findings, insights, and conclusion |
-| `Python DA Assignment 2 – Data Visualization.pdf` *(optional)* | Original assignment instruction file, if uploaded |
+| `Python DA Assignment 2 – Data Visualization.pdf`  | Original assignment instruction file |
 
 ## Author
 
